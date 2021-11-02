@@ -1,2 +1,1 @@
 # javaneatbeans_mysqlconnection
-# akademikjavaneatbeansconnectedjdbcs_mysql_SIT

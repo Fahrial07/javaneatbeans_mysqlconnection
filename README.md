@@ -14,11 +14,13 @@ Cara menggunkan app java neatbeans connect jdbc MySQL.
 6. Kemudian Inport Project.
 7. Setelah itu run / Jalankan.
 
+      ![image](https://user-images.githubusercontent.com/59271553/140270334-77887a71-c9ef-43eb-9bb2-8f3b21d814f9.png)
+       ![image](https://user-images.githubusercontent.com/59271553/140270362-27b800a8-c948-4176-a99c-b8cc91132429.png)
+
 NOTE : Jika ada error silahkan baca errornya, kemungkinan versi Xampp dan jdbc mysql connection .jar yang berbeda versi, atau versi lama yang anda gunakan. silahkan samakana.
        Saya sarankan menggunkan Xampp versi 8.x.x dan jdbc myswl connection jar ver 8.x.x
        
-       ![image](https://user-images.githubusercontent.com/59271553/140270334-77887a71-c9ef-43eb-9bb2-8f3b21d814f9.png)
-       ![image](https://user-images.githubusercontent.com/59271553/140270362-27b800a8-c948-4176-a99c-b8cc91132429.png)
+       
 
        
        - Terimakasih -
